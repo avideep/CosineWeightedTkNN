@@ -1,11 +1,10 @@
 # Medoid Based Nearest Neghbor Decision Rule (MedNN)
 This method is developed in spirit of the nearest neighbor decision rule using a medoid based weighting scheme. The method puts more weightage on the training data that are not only lie close to the test data point, but also lie close to the medoid of its corresponding category in decision making, unlike the standard nearest neighbor algorithms that stress on the data points that are just close to the test data point. The aim of this classifier is to enrich the quality of decision making. The method is explained in the following papers and the steps to implement the method are stated below.
-```
-Avideep Mukherjee andTanmay Basu. A Medoid Based Weighting Schemefor Nearest Neighbors Decision Rule Towards Effective Text Categorization.Springer Nature Applied Sciences, 2020.
-```
-```
-Avideep Mukherjee andTanmay Basu. An Effective Nearest Neighbor Clas-sification  Technique  Using  Medoid  Based  Weighting  Scheme,  published  in Proceedings  of  the  Fourteenth International  Conference  on  Data  Science, pp.  231-234, Las Vegas, USA, 2018.
-```
+
+Avideep Mukherjee and Tanmay Basu. A Medoid Based Weighting Schemefor Nearest Neighbors Decision Rule Towards Effective Text Categorization. Springer Nature Applied Sciences, 2020.
+
+
+Avideep Mukherjee and Tanmay Basu. An Effective Nearest Neighbor Clas-sification Technique Using Medoid Based Weighting Scheme, published in Proceedings of the Fourteenth International Conference on Data Science, pp.231-234, Las Vegas, USA, 2018.
 
 ## How to run the model?
 
